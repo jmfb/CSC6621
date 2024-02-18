@@ -1,0 +1,5 @@
+/csc6621/
+.ipynb_checkpoints/
+/pydata-book/
+*.png
+__pycache__/
