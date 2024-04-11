@@ -22,7 +22,8 @@ Configure a python virtual environment for the class (from the project directory
 	seaborn patsy statsmodels jupyter `
 	pyarrow `
 	graphviz `
-	xlrd
+	xlrd `
+	tensorflow keras
 ```
 
 ## Local Development
