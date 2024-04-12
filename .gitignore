@@ -3,3 +3,4 @@
 /pydata-book/
 *.png
 __pycache__/
+/reference/
